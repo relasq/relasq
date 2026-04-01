@@ -22,7 +22,7 @@ Node.js • JavaScript • Docker • Linux • MongoDB • HTML/CSS
 ## 📫 Contato
 
 * 🌍 https://stackr.lat
-* 💬 Discord: (adicione aqui)
+* 💬 Discord: 1j4q
 
 ---
 
